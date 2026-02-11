@@ -1,0 +1,3 @@
+google.com 142.250.182.14
+yahoo.com 98.137.11.163
+openai.com 104.18.12.123
